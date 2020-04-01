@@ -18,13 +18,14 @@
   * [하이엔드급](#하이엔드급)
 * [참고자료](#참고자료)
   * [스시 유튜버](#스시-유튜버)
+* [용어정리](#용어정리)
 
 
 ## 가격대별 스시야
 
 ### 엔트리급
 
-#### [스시오오시마](https://store.naver.com/restaurants/detail?id=864900659)
+#### [`스시오오시마`](https://store.naver.com/restaurants/detail?id=864900659)
 
 - 위치
   - 서울 양천구 목동
@@ -43,7 +44,7 @@
 - SNS
   - [인스타그램](https://www.instagram.com/sushi_oosima)
 
-#### [스시치카라](https://store.naver.com/restaurants/detail?id=1539405629)
+#### [`스시치카라`](https://store.naver.com/restaurants/detail?id=1539405629)
 
 - 위치
   - 서울 마포구 합정
@@ -57,7 +58,7 @@
   - 장국의 온도와 간이 완벽
   - 디저트로 [판나코타](https://ko.wikipedia.org/wiki/%ED%8C%90%EB%82%98_%EC%BD%94%ED%83%80)가 나옴
 
-#### [스담](https://store.naver.com/restaurants/detail?id=37869120)
+#### [`스담`](https://store.naver.com/restaurants/detail?id=37869120)
 
 - 위치
   - 서울 중구, 청구역 위치
@@ -72,7 +73,7 @@
   - 츠마미와 디저트가 없음
   - 한꺼번에 모든 피스를 만들어줘서 아쉬움
 
-#### [갓포아오이](https://store.naver.com/restaurants/detail?id=38338131)
+#### [`갓포아오이`](https://store.naver.com/restaurants/detail?id=38338131)
 
 - 위치
   - 경기도 성남시 분당
@@ -92,7 +93,7 @@
 
 ### 미들급
 
-#### [스시아라타](https://store.naver.com/restaurants/detail?id=1796596446)
+#### [`스시아라타`](https://store.naver.com/restaurants/detail?id=1796596446)
 
 - 위치
   - 서울시 영등포구 여의도
@@ -109,7 +110,7 @@
 - SNS
   - [인스타그램](https://www.instagram.com/tsubasa841)
 
-#### [스시야](https://store.naver.com/restaurants/detail?id=1921056523)
+#### [`스시야`](https://store.naver.com/restaurants/detail?id=1921056523)
 
 - 위치
   - 경기도 성남시 분당
@@ -123,7 +124,7 @@
   - 마츠모토 계열
   - 미들급의 가격으로 하이엔드급의 퀄리티를 맛볼 수 있음
 
-#### [심야식당쿤](https://store.naver.com/restaurants/detail?id=1671873007)
+#### [`심야식당쿤`](https://store.naver.com/restaurants/detail?id=1671873007)
 
 - 위치
   - 경기도 성남시 분당
@@ -146,6 +147,7 @@
 
 #### 스시인
 
+
 ## 참고자료
 
 ### 스시 유튜버
@@ -156,3 +158,16 @@
 - [Sushi President](https://www.youtube.com/channel/UCL80hM0_GJdv0hfBHO4Apqw)
 - [빡주요이](https://www.youtube.com/channel/UCtRyvZlA6ws_LVuQr5oJsiw)
 - [맛객리우](https://www.youtube.com/channel/UCTigVbNdTjgtLexOLGH3AlA)
+
+
+## 용어정리
+
+- `오마카세` - 주방장에게 맡긴다는 뜻으로 주방장이 그 날의 좋은 재료로 메뉴를 정해 내어주는 것을 뜻함
+- `샤리` - 스시에 사용되는 밥
+- `네타` - 밥 위에 올라가는 재료
+- `쯔케모노` - 야채절임
+- `스이모노` - 맑은 장국
+- `미소시루` - 탁한 된장국
+- `오도로` - 참치 대뱃살
+- `주도로` - 참치 중뱃살
+- `아카미` - 참치 등살

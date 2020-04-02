@@ -3,6 +3,9 @@
 <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
 </a>
+<a href="https://github.com/MakeNowJust/sushi-ware">
+    <img src="https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg" alt="SUSHI-WARE LICENSE" align="center">
+</a>
 
 ## 개요
 
@@ -186,3 +189,11 @@
 - `오도로` - 참치 대뱃살
 - `주도로` - 참치 중뱃살
 - `아카미` - 참치 등살
+
+## License
+
+These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license
+
+(C) 2020 [@738]
+
+[@738]: https://github.com/738

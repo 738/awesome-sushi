@@ -54,7 +54,7 @@
 
 * [스시 오마카세 입문. 이거 하나면 끝! How to Enjoy Sushi Omakase - Sushi 101](https://www.youtube.com/watch?v=S-PynWFJfOo) - 먹적
 * [이 정도만 알면 초밥고수? 스시 오마카세 단어장](https://www.youtube.com/watch?v=ihDlmrgHDQ8) - 코우지 TV
-
+* [이것만 알면_ 스시 오마카세도 두렵지 않다!](https://www.youtube.com/watch?v=Nq768LJ8rnc) - 마리아주
 
 ## 가격대별 스시야
 

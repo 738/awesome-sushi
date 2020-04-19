@@ -1,14 +1,19 @@
-# 🍣 Awesome Sushi
+<h1 align="center">
+    <img height="250" src="/awesome-sushi.png" />
+    <br> Awesome Sushi
+</h1>
 
-<a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
-</a>
-<a href="https://github.com/MakeNowJust/sushi-ware">
-    <img src="https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg" alt="SUSHI-WARE LICENSE" align="center">
-</a>
-<a href="https://hits.seeyoufarm.com"/>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2Fawesome-sushi"/>
-</a>
+<p align="center">
+  <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
+  </a>
+  <a href="https://github.com/MakeNowJust/sushi-ware">
+      <img src="https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg" alt="SUSHI-WARE LICENSE" align="center">
+  </a>
+  <a href="https://hits.seeyoufarm.com"/>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2Fawesome-sushi"/>
+  </a>
+</p>
 
 ## 개요
 

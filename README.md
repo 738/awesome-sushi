@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://awesome.re">
-      <img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
+      <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
   <a href="https://github.com/MakeNowJust/sushi-ware">
-      <img src="https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg" alt="SUSHI-WARE LICENSE" align="center">
+      <img src="https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg" alt="SUSHI-WARE LICENSE">
   </a>
   <a href="https://hits.seeyoufarm.com"/>
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2Fawesome-sushi"/>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2Fawesome-sushi">
   </a>
 </p>
 

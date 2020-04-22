@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img height="250" src="/awesome-sushi.png" />
+    <img width="380" src="/awesome-sushi.png" />
     <br> Awesome Sushi
 </h1>
 

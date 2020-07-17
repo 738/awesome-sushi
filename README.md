@@ -3,6 +3,7 @@
     <br> Awesome Sushi
 </h1>
 
+
 <p align="center">
   <a href="https://awesome.re">
       <img src="https://awesome.re/badge.svg" alt="Awesome">
@@ -14,6 +15,7 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2Fawesome-sushi">
   </a>
 </p>
+
 
 ## 개요
 
@@ -35,6 +37,7 @@
     * [상남스시](#상남스시)
     * [스시도우](#스시도우)
     * [스시소라 마포점](#스시소라-마포점)
+    * [스시소라 대치점](#스시소라-대치점)
     * [스시미소](#스시미소)
     * [스시사카우](#스시사카우)
   * [미들급](#미들급)
@@ -196,6 +199,23 @@
   - 두 셰프님이 함께 카운터를 맡음
   - 11석
 
+#### [`스시소라 대치점`](https://store.naver.com/restaurants/detail?id=832737607)
+
+- 위치
+  - 서울 강남구
+  - 선릉역 도보 < 10분
+- 가격
+  - 런치 50,000원
+  - 디너 80,000원
+- 예약
+  - 전화
+  - 예약 난이도: 보통
+- 특징
+  - [코우지](https://www.youtube.com/channel/UCL12ddKeiBTMGZ_g6X7PhXw) 셰프님이 운영하는 업장
+  - 2~3인의 셰프님이 카운터를 맡음
+  - 기본적으로 코우지 계열이라 샤리가 괜찮음
+  - 최근 인기가 많아진 업장
+
 #### [`스시미소`](https://store.naver.com/restaurants/detail?id=1429085190)
 
 - 위치
@@ -209,6 +229,7 @@
 - 특징
   - 10석
   - 2020년 02월 오픈
+  - 신생업장이라 그런지 셰프님이 이것저것 변화를 줘보면서 발전하려 하시는 모습이 보임 (주관적 의견)
 
 #### [`스시사카우`](https://store.naver.com/restaurants/detail?id=1433563609)
 
@@ -273,7 +294,7 @@
   - 메인셰프: 육군철 셰프
   - 카운터 말고도 테이블석이 많음
   - 오마카세 말고도 메뉴가 다양함
-  
+
 #### [`스시민종우`](https://store.naver.com/restaurants/detail?id=1554730352)
 
 - 위치

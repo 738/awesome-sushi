@@ -264,7 +264,7 @@
   - 배불리 먹이고 돌려보내려는 컨셉이라, 웬만하면 추가 차지 없이 앵콜 흔쾌히 해주심
   - 버그 터져서 핫픽스하는 개발자를 많이 보셔서, 코스 일시중지 요청을 익숙하게 잘 받아주심
   
-#### [스시산블루](https://store.naver.com/restaurants/detail?entry=plt&id=1463645744)
+#### [`스시산블루`](https://store.naver.com/restaurants/detail?entry=plt&id=1463645744)
 
 - 위치
   - 서울 용산구

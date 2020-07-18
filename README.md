@@ -381,6 +381,8 @@
 - [Sushi President](https://www.youtube.com/channel/UCL80hM0_GJdv0hfBHO4Apqw)
 - [빡주요이](https://www.youtube.com/channel/UCtRyvZlA6ws_LVuQr5oJsiw)
 - [맛객리우](https://www.youtube.com/channel/UCTigVbNdTjgtLexOLGH3AlA)
+- [더들리](https://www.youtube.com/channel/UCmJEpV4hLzGWLU5rrdOHMhQ)
+- [먹방외길](https://www.youtube.com/user/bewhite1212)
 
 
 ## 용어정리

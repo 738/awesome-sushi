@@ -58,6 +58,7 @@
 * [참고자료](#참고자료)
   * [스시 유튜버](#스시-유튜버)
 * [용어정리](#용어정리)
+* [도움을 주신 분들](#도움을-주신-분들)
 
 ## 스시오마카세 입문자를 위한 팁
 
@@ -518,6 +519,19 @@
 - `우니` - 성게알 
 - `나마비루` - 생맥주
 
+
+## 도움을 주신 분들
+
+- [@jaeyeonling]
+- [@leejseo]
+- [@JoMingyu]
+- [@asiluoy]
+- [@Unuuuuu]
+- [@Pewww]
+- [@kciter]
+- [@madplay]
+
+
 ## License
 
 These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license
@@ -525,3 +539,11 @@ These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sush
 (C) 2020 [@738]
 
 [@738]: https://github.com/738
+[@jaeyeonling]: https://github.com/jaeyeonling
+[@leejseo]: https://github.com/leejseo
+[@JoMingyu]: https://github.com/JoMingyu
+[@asiluoy]: https://github.com/asiluoy
+[@Unuuuuu]: https://github.com/Unuuuuu
+[@Pewww]: https://github.com/Pewww
+[@kciter]: https://github.com/kciter
+[@madplay]: https://github.com/madplay

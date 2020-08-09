@@ -573,6 +573,7 @@
 - [@Pewww]
 - [@kciter]
 - [@madplay]
+- [@kwoncharles]
 
 
 ## License
@@ -590,3 +591,4 @@ These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sush
 [@Pewww]: https://github.com/Pewww
 [@kciter]: https://github.com/kciter
 [@madplay]: https://github.com/madplay
+[@kwoncharles]: https://github.com/kwoncharles

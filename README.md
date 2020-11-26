@@ -642,6 +642,7 @@
 - [@madplay]
 - [@kwoncharles]
 - [@HaenaraShin]
+- [@wellshs]
 
 
 ## License
@@ -661,3 +662,4 @@ These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sush
 [@madplay]: https://github.com/madplay
 [@kwoncharles]: https://github.com/kwoncharles
 [@HaenaraShin]: https://github.com/HaenaraShin
+[@wellshs]: https://github.com/wellshs

@@ -648,6 +648,7 @@
 - [@kwoncharles]
 - [@HaenaraShin]
 - [@wellshs]
+- [@leejiwon6315]
 
 
 ## License
@@ -668,3 +669,4 @@ These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sush
 [@kwoncharles]: https://github.com/kwoncharles
 [@HaenaraShin]: https://github.com/HaenaraShin
 [@wellshs]: https://github.com/wellshs
+[@leejiwon6315]: https://github.com/leejiwon6315

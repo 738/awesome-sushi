@@ -205,7 +205,7 @@
   - 포잉 또는 전화
   - 예약 난이도: 어려운 편
 
-#### [`이요이요 파크자이3호점`](https://store.naver.com/restaurants/detail?id=1043397620)
+#### [`이요이요 파크자이3호점`](https://store.naver.com/restaurants/detail?id=1431823961)
 
 - 위치
   - 서울 마포구

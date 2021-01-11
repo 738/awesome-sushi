@@ -761,6 +761,8 @@
 - [@wellshs]
 - [@leejiwon6315]
 - [@pureugong]
+- [@Sun-Woo-Kim]
+- [@KimGenius]
 
 
 ## License
@@ -783,3 +785,5 @@ These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sush
 [@wellshs]: https://github.com/wellshs
 [@leejiwon6315]: https://github.com/leejiwon6315
 [@pureugong]: https://github.com/pureugong
+[@Sun-Woo-Kim]: https://github.com/Sun-Woo-Kim
+[@KimGenius]: https://github.com/KimGenius

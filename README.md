@@ -764,6 +764,10 @@
 - [@Sun-Woo-Kim]
 - [@KimGenius]
 
+## Contributing
+
+[`CONTRIBUTING.md`](/CONTRIBUTING.md)를 읽고 기여해주세요!
+
 
 ## License
 

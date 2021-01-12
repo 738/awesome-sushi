@@ -30,4 +30,6 @@
 2. URL에서 PlaceID를 찾는다.
 3. 찾은 PlaceID를 https://store.naver.com/restaurants/detail?id= 뒤에 붙여넣는다.
 
-[찾는 법 영상](./how-to-find-naver-place-link.gif)
+[느린 gif보다 빠른 영상버전](./how-to-find-naver-place-link.mov)
+![](./how-to-find-naver-place-link.gif)
+

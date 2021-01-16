@@ -19,3 +19,16 @@
 - 공백이 일관적이지 확인해주세요.
 
 기여해주셔서 감사드립니다 :)
+
+
+
+### 네이버 장소 링크 찾는 법
+
+[관련이슈](https://github.com/738/awesome-sushi/issues/25)
+
+1. [네이버 맵](http://map.naver.com/)에 접속하여 원하는 장소를 찾는다.
+2. URL에서 PlaceID를 찾는다.
+3. 찾은 PlaceID를 https://store.naver.com/restaurants/detail?id= 뒤에 붙여넣는다.
+
+![](./how-to-find-naver-place-link.gif)
+

@@ -722,7 +722,7 @@
 - 특징
   - 2020년 12월 오픈한 핫한 스시야
   
-  #### [`스시류코`](https://store.naver.com/restaurants/detail?id=1633821940)
+#### [`스시류코`](https://store.naver.com/restaurants/detail?id=1633821940)
 
 - 위치
   - 서울 강남구 신사동

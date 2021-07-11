@@ -880,21 +880,25 @@
 
 ## 도움을 주신 분들
 
-- [@jaeyeonling]
-- [@leejseo]
-- [@JoMingyu]
-- [@asiluoy]
-- [@Unuuuuu]
-- [@Pewww]
-- [@kciter]
+- [@KimGenius]
 - [@madplay]
 - [@kwoncharles]
-- [@HaenaraShin]
+- [@jaeyeonling]
+- [@GREENOVER]
+- [@asiluoy]
+- [@leejseo]
 - [@wellshs]
+- [@kciter]
 - [@leejiwon6315]
+- [@Unuuuuu]
+- [@Pewww]
+- [@doremin]
+- [@14km]
+- [@HaenaraShin]
 - [@pureugong]
 - [@Sun-Woo-Kim]
-- [@KimGenius]
+- [@JoMingyu]
+
 
 ## Contributing
 
@@ -923,3 +927,6 @@ These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sush
 [@pureugong]: https://github.com/pureugong
 [@Sun-Woo-Kim]: https://github.com/Sun-Woo-Kim
 [@KimGenius]: https://github.com/KimGenius
+[@GREENOVER]: https://github.com/GREENOVER
+[@doremin]: https://github.com/doremin
+[@14km]: https://github.com/14km

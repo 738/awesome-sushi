@@ -63,6 +63,7 @@
     * [스시카나](#스시카나)
     * [스시유메](#스시유메)
     * [스시진수](#스시진수)
+    * [스시비쇼쿠](#스시비쇼쿠)
   * [미들급](#미들급)
     * [스시아라타](#스시아라타)
     * [스시야](#스시야)
@@ -642,6 +643,26 @@
     - 코스가 길고, 츠마미, 스이 모노, 튀김, 디저트 등 다양하게 제공됨
     - 분위기가 무겁지 않고 라이트 한 편 (나쁘게 표현하면 어수선 한 편)
     - 몇 없는 콜키지 프리 업장
+    
+#### [`스시비쇼쿠`](https://store.naver.com/restaurants/detail?id=51136231)
+  - 위치
+    - 서울 구로구 구로동
+    - 구로디지털단지역 도보 5분 이내
+  - 가격
+    - 런치 스시 코스 30,000원
+    - 런치 스시 오마카세 50,000원
+    - 디너 스시 코스 50,000원
+    - 디너 스시 오마카세 70,000원
+    - 디너 사시미 오마카세 90,000원
+  - 예약
+    - 전화 예약
+    - 난이도 : 쉬움
+  - 특징
+    - 런치 (11:30 - 15:00)
+    - 디너 (18:00 - 22:30)
+    - 테이크아웃 A(25,000원), B(39,000원)
+    - 통상 2분의 셰프님이 카운터를 맡음
+    - 숙성회 위주로 초심자에게 추천할 만함
 
 
 ### 미들급
@@ -948,6 +969,7 @@
 - [@pureugong]
 - [@Sun-Woo-Kim]
 - [@JoMingyu]
+- [@Esantomi]
 
 
 ## Contributing
@@ -980,3 +1002,4 @@ These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sush
 [@GREENOVER]: https://github.com/GREENOVER
 [@doremin]: https://github.com/doremin
 [@14km]: https://github.com/14km
+[@Esantomi]: https://github.com/Esantomi

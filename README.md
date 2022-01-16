@@ -755,7 +755,8 @@
   - 브레이크타임 14:00~17:30
   - 저녁 17:30~재료소진시
 
-### ['송하정스시'](https://store.naver.com/restaurants/detail?id=1400532181)
+#### [`송하정스시`](https://store.naver.com/restaurants/detail?id=1400532181)
+
 - 위치
  - 서울 강동구
 -가격

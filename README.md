@@ -807,7 +807,7 @@
   - 콜키지 2만원
   - 앵콜 스시 있음
 
-#### [`스시다케루`](https://map.naver.com/v5/entry/place/1990176684?id=1990176684)
+#### [`스시다케루`](https://store.naver.com/restaurants/detail?id=1990176684)
 - 위치
     - 경기 성남시 분당구 판교역로10번길 12 102호
     - 백현동 카페거리

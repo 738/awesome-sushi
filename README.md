@@ -96,6 +96,7 @@
     * [스시선수](#스시선수)
 * [참고자료](#참고자료)
   * [스시 유튜버](#스시-유튜버)
+  * [DB](#DB)
 * [용어정리](#용어정리)
 * [도움을 주신 분들](#도움을-주신-분들)
 
@@ -1126,6 +1127,9 @@
 - [더들리](https://www.youtube.com/channel/UCmJEpV4hLzGWLU5rrdOHMhQ)
 - [먹방외길](https://www.youtube.com/user/bewhite1212)
 
+### DB
+
+- [(Spreadsheet) 전국 오마카세 스시야 DB](https://docs.google.com/spreadsheets/d/1BQqkb4NLZ0v2Ml1gAfamEqx9mie5MwZLCUbGH8IiUHE/edit#gid=0)
 
 ## 용어정리
 

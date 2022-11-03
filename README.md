@@ -90,6 +90,7 @@
     * [스시이세이 광교](#스시이세이-광교)
     * [스시스이렌](#스시스이렌)
     * [세이류](#세이류)
+    * [스시유리](#스시유리)
   * [하이엔드급](#하이엔드급)
     * [사토시](#사토시)
     * [스시인](#스시인)
@@ -1072,6 +1073,20 @@
 - SNS
   + https://www.instagram.com/omakase_seiryu/
 
+#### [`스시유리`](https://store.naver.com/restaurants/detail?id=1547603159)
+
+- 위치
+  - 서울 강남구
+  - 삼성역 부근
+- 가격
+  - 런치 80,000원
+  - 디너 150,000원
+- 예약
+  - 캐치테이블 (https://app.catchtable.co.kr/ct/shop/sushiyuri.official?from=share)
+- 특징
+  - 에르메스 그릇에 먹는 스시
+- SNS
+  - https://www.instagram.com/sushiyuri.official/
 
 ### 하이엔드급
 

@@ -1082,7 +1082,7 @@
   - 런치 80,000원
   - 디너 150,000원
 - 예약
-  - 캐치테이블 (https://app.catchtable.co.kr/ct/shop/sushiyuri.official?from=share)
+  - 캐치테이블 (https://app.catchtable.co.kr/ct/shop/sushiyuri.official)
 - 특징
   - 에르메스 그릇에 먹는 스시
 - SNS

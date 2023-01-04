@@ -475,7 +475,7 @@
   - 테이블도 같이 운영
   - (구) 갓포아오이 위치
 
-#### [`스시쵸우`](https://store.naver.com/restaurants/detail?id=317189796)
+#### [`스시쵸우`](https://store.naver.com/restaurants/detail?id=1862642342)
 
 - 위치
   - 서울시 용산구 한남동

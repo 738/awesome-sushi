@@ -845,6 +845,22 @@
   - 주류주문이 필수가 아님
   - 1호점 스시온정, 3호점 스시서정이 있고 스시다정은 2호점
 
+#### [`스시다`](https://naver.me/GFpeYyBz)
+
+- 위치
+- - 서울 성북구 한천로80길 51
+- 가격
+- 런치: 39,000~
+- 디너: 59,000~
+- 예약: https://app.catchtable.co.kr/ct/shop/sushidaon
+- 특징
+- - 입문용 오마카세로 좋음.
+- - 가성비 좋음.
+- - 주차하기 어려움.
+- - 기념일에 가기 좋음
+- SNS
+- - 인스타그램 https://www.instagram.com/sushi_daon/
+
 ### 미들급
 
 #### [`가네끼스시`](https://store.naver.com/restaurants/detail?id=21423777)

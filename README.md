@@ -53,7 +53,7 @@
     * [스시츠루](#스시츠루)
     * [스시아오이](#스시아오이)
     * [오가와](#오가와)
-    * [스시산원 궁](#스시산원 궁)
+    * [스시산원 궁](#스시산원-궁)
     * [판교 스시쿤](#판교-스시쿤)
     * [정자 스시쿤](#정자-스시쿤)
     * [스시다원](#스시다원)
@@ -99,7 +99,7 @@
     * [스시렌](#스시렌)
 * [참고자료](#참고자료)
   * [스시 유튜버](#스시-유튜버)
-  * [DB](#DB)
+  * [DB](#db)
 * [용어정리](#용어정리)
 * [도움을 주신 분들](#도움을-주신-분들)
 
@@ -1300,3 +1300,4 @@ These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sush
 [@doremin]: https://github.com/doremin
 [@14km]: https://github.com/14km
 [@Esantomi]: https://github.com/Esantomi
+[@seonggwonyoon]: https://github.com/seonggwonyoon
